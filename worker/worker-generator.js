@@ -3,8 +3,8 @@ addEventListener('fetch', event => {
 });
 
 const tokenURL = 'https://www.googleapis.com/oauth2/v4/token';
-const clientId = '746239575955-oao9hkv614p8glrqpvuh5i8mqfoq145b.apps.googleusercontent.com';
-const clientSecret = 'u5a1CSY5pNjdD2tGTU93TTnI';
+const clientId = '393918893887-91stb7r082il4mmr9lppob6klpi29c16.apps.googleusercontent.com';
+const clientSecret = 'DCFOo_AeKcKcpKsUH5vb-NoV';
 const grantType = 'authorization_code';
 const redirectURI = 'urn:ietf:wg:oauth:2.0:oob';
 const jsURL = 'https://gitlab.com/ParveenBhadooOfficial/Google-Drive-Index/-/raw/master/worker/worker-beta.js';
